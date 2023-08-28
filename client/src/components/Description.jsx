@@ -3,7 +3,7 @@ const Description = () => {
     <div className="p-6 space-y-4">
       <span className="font-bold text-sm text-orange">SNEAKERS COMPANY</span>
       <h2 className="font-bold text-3xl">Fall Limited Edition Sneakers</h2>
-      <p>
+      <p className="text-dark-grayish-blue">
         Collections Men Women About Contact Sneaker Company Fall Limited Edition
         Sneakers These low-profile sneakers are your perfect casual wear
         companion. Featuring a durable rubber outer sole, they’ll withstand
